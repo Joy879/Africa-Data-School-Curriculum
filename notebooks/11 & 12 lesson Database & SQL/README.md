@@ -5,10 +5,10 @@ Please intall MySQL from the links shared [here](https://github.com/Joy879/insta
 ## Jumiaa database
 
 Copy the commands to create jumiaa database from [here](https://raw.githubusercontent.com/Joy879/Africa-Data-School-Curriculum/main/notebooks/11%20%26%2012%20lesson%20Database%20%26%20SQL/jumiaaDatabase.sql)
-First select all values using `Ctr` + `A`
-Copy them using `Ctr` + `C`
-Paste them on SQL workbench in a new tab
-Then run the code
+* First select all values using `Ctr` + `A`
+* Copy them using `Ctr` + `C`
+* Paste them on SQL workbench in a new tab
+* Then run the code
 
 ## Wildcard Clarification
 `_` wildcard represents individual letters e.g. looking for `John` or `Joan` I would use `J__n`
