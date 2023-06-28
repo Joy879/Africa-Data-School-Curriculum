@@ -5,7 +5,7 @@
 #### Common datatypes
 
 * NUMERICAL
-* CATEGORICAL (WORDS -> GENDER)
+* CATEGORICAL (simply put made of words/options e.g. GENDER)
 
 #### Rules to remember
 
