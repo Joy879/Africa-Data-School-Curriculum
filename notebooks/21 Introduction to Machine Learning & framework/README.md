@@ -1,5 +1,5 @@
 ## ML Framework
-Basically the framework can be regared as similar to the Crisp-dm framework mentioned in [Session2](https://github.com/Joy879/Africa-Data-School-Curriculum/blob/main/notebooks/2_Frameworks_%26_Tools/02Lesson%20Data%20framework%20%26%20Tools.pdf)
+Basically the framework can be regarded as similar to the Crisp-dm framework mentioned in [Session2](https://github.com/Joy879/Africa-Data-School-Curriculum/blob/main/notebooks/2_Frameworks_%26_Tools/02Lesson%20Data%20framework%20%26%20Tools.pdf)
 
 |Stage|Description|Useful Resources and links|
 |-----|-------|---------|
