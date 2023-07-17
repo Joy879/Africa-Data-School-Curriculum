@@ -1,5 +1,8 @@
 # Regression
-![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/8ae4efe2-73d7-4d7e-b11d-f22aa3df3fae)
+|||
+|---|---|
+|![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/8ae4efe2-73d7-4d7e-b11d-f22aa3df3fae)|![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/f5638c38-163b-46fb-acdc-b8c8a1b37dd3)|
+
 
 One application of supervised ML where we predict numerical variables. This session is dedicated to introducing the high-level intuition about various models but if you want deep dives I recommend these learning platforms:
 * [Analytics Vidhya Regression Analysis](https://courses.analyticsvidhya.com/courses/Fundamentals-of-Regression-Analysis)
