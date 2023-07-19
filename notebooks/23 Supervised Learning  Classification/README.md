@@ -12,5 +12,10 @@ Part 1 was meant to introduce aspects of scikit learn and additional info about 
 * [K-Nearest-Neighbors](https://course.elementsofai.com/4/2)
 
 Part 2 was more bent on an end to end workflow plus more focus on hyperparameter tuning, cross validation and doing it on an unclean dataset. If you're finding it hard to follow remember the CRISP-DM lifecycle...also checkout Kaggle courses on [intro to machine learning](https://www.kaggle.com/learn/intro-to-machine-learning) and [intermediate machine learning](https://www.kaggle.com/learn/intermediate-machine-learning) 
+
+
+
+
+
 ![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/2219dffe-4174-4338-bed1-347e19ea03ef)
 
