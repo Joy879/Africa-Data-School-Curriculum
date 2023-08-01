@@ -31,6 +31,8 @@ The pooled feature is then flattened into a vector. This new vector will be fed 
 * [MIT intro to computer vision](http://introtodeeplearning.com/2020/slides/6S191_MIT_DeepLearning_L3.pdf)
 * [Microsoft Learn summary of CNN](https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/4-convolutional-neural-networks)
 * [Deep Lizard Playlist](https://www.youtube.com/watch?v=YRhxdVk_sIs&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&index=19)
+* [Deep Lizard CNNs](https://deeplizard.com/learn/video/YRhxdVk_sIs)
+* [Deep Lizard Keras for Deep Learning course with code](https://deeplizard.com/learn/video/RznKVRTFkBY)
 * [Deep Lizard Convolution Demo](https://deeplizard.com/resource/pavq7noze2)
 * [Deep Lizard MaxPooling Demo](https://deeplizard.com/resource/pavq7noze3)
 * [Keras Blog](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
