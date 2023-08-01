@@ -32,6 +32,7 @@ The pooled feature is then flattened into a vector. This new vector will be fed 
 * [Deep Lizard Playlist](https://www.youtube.com/watch?v=YRhxdVk_sIs&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&index=19)
 * [Deep Lizard Convolution Demo](https://deeplizard.com/resource/pavq7noze2)
 * [Deep Lizard MaxPooling Demo](https://deeplizard.com/resource/pavq7noze3)
+* [Keras Blog](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 * [More Youtube playlists](https://www.youtube.com/results?search_query=deep+learning+for+computer+vision)
 * [Applications of computer vision in Agriculture](https://viso.ai/applications/computer-vision-in-agriculture/)
 *  [Case studies from Omdena](https://omdena.com/tag/object-detection/)
