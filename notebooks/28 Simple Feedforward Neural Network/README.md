@@ -12,6 +12,7 @@ For example [CNNs](https://github.com/Joy879/ADS_REV_code/tree/main/030%20CNN) f
 
 ## Learning resources
 * [Tensorflow Playground](https://playground.tensorflow.org/#activation=relu&batchSize=7&dataset=circle&regDataset=reg-gauss&learningRate=1&regularizationRate=0&noise=0&networkShape=6,6,3&seed=0.72733&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&regularization_hide=true&regularizationRate_hide=true)
+* [Deep Lizard Keras for Deep Learning course with code](https://deeplizard.com/learn/video/RznKVRTFkBY)
 * [Elements of AI](https://course.elementsofai.com/5/1)
 * [MIT intro to deep learning](http://introtodeeplearning.com/index.html)
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
