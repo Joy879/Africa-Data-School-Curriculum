@@ -1,2 +1,10 @@
-Please open the notebook(file ending in.ipynb) and find the notes and assignment listed there. Submission link has been shared on Dexvirtual under Announcement's section
-Also the PDF Notes are now available for [Intro to python and setup's lesson](https://github.com/Joy879/Africa-Data-School-Curriculum/blob/main/notebooks/3_Intro_to_Python/04%20Python.pdf) and [Data Science and Framework's](https://github.com/Joy879/Africa-Data-School-Curriculum/tree/main/notebooks/2_Frameworks_%26_Tools) lesson
+Please open the notebook(file ending in.ipynb) and find the notes and assignment listed there. 
+
+For this week your main challenge is to setup a [replit](https://replit.com/) account and work with any learning platform e.g. 
+* [Replit](https://replit.com/learn/100-days-of-python)
+* [W3Schools](https://www.w3schools.com/python/)
+* [Sololearn](https://www.sololearn.com/learn/courses/python-introduction)
+* [Youtube](https://www.youtube.com/results?search_query=python+programming+full+course)
+
+to learn more about working with python programming language.
+
