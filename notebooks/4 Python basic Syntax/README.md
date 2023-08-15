@@ -14,9 +14,9 @@ Moving on you will notice most classes have an assignment. All assignment questi
 
 
 ![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/6b0a5b1b-388b-4b23-a514-bec2fc0c7016)
+
 Comparison Operators
 ![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/0e731f79-37c1-4fb9-a45c-7592fe598657)
-
 
 
 Logical Operators
