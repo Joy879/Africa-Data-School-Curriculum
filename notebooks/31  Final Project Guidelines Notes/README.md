@@ -6,7 +6,8 @@ You are supposed to do your final end to end project covering the [data science 
  * End date <strong>October 8th 2023</strong>
 
 The final submission should be the link to your GitHub repository. 
-Submissions will be made on the same airtable link for assignments
+Submissions will be made on the same airtable link for assignments ![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/f7f19578-38de-4c88-b3f8-8019f9ab6cbd)
+
 
 Within GitHub please include:
 - [ ] your project code files (i.e. notebook and py file and requirements file plus any other additional file including datasets you worked with)
